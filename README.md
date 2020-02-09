@@ -8,5 +8,5 @@ Convert the google bookmark file to markdown list format.
     ```
 * Step 2: Run
     ```shell=
-    $ python3 main.py > markdownBookmark.md
+    $ python3 main.py > MarkdownBookmark.md
     ```
