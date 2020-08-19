@@ -1,4 +1,5 @@
 .vscode/
-MarkdownBookmark.md
+bookmark.md
 GoogleBookmarks.html
+run.sh
 env*/
